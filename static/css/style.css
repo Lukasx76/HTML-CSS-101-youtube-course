@@ -1,0 +1,18 @@
+.functionalities {
+
+    text-align: center;
+    
+}
+
+.header-options {
+    background-color: rgb(255, 255, 255);
+}
+
+#btn1, #btn2, #btn3, #btn4, #btn5 {
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+
+body {
+    background-color: rgb(187, 207, 187);
+}
