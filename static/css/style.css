@@ -1,18 +1,23 @@
-.functionalities {
-
-    text-align: center;
-    
-}
-
-.header-options {
-    background-color: rgb(255, 255, 255);
-}
-
-#btn1, #btn2, #btn3, #btn4, #btn5 {
-    background-color: rgb(255, 255, 255);
-    border: none;
+html {
+    margin: 0%;
 }
 
 body {
-    background-color: rgb(187, 207, 187);
+    background-color: #ffffff;
+    height: 100%;
+    background-color: #f1f1f1;
+    width: 100%;
+
+}
+
+.btns-footer {
+    align-items: center;
+    top: 25%;
+    bottom: 25%;
+    height: 50%;
+    width: 50%;
+    background-color: #f1f1f1;
+    margin-left: 35%;
+    margin-top: 33%;
+
 }
