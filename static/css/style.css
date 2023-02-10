@@ -75,3 +75,20 @@
 .tweet-btn:hover {
     box-shadow: 5px 5px 10px rgba(0,0,0,0.13)
 }
+
+.apply-btn {
+    font: 16px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 36px;
+    border-radius: 18px;
+    background-color: rgb(56, 56, 238);
+    width: 220px;
+    transition: opacity 0.15s;
+    cursor: pointer;
+}
+
+.apply-btn:hover {
+    background-color: rgba(0,0,0,0.77)
+}
