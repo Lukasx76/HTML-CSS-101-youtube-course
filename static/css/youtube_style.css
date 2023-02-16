@@ -1,0 +1,61 @@
+.advertasing {
+    width: 300px;
+    display: inline-block;
+}
+
+.video1 {
+    width: 300px;
+    display: inline-block;
+}
+
+.video2 {
+    width: 300px;
+    display: inline-block;
+}
+
+.video3 {
+    width: 300px;
+    display: block;
+}
+
+.video4 {
+    width: 300px;
+    display: inline-block;
+}
+
+.video5 {
+    width: 300px;
+    display: inline-block;
+}
+
+.icon1 {
+    border-radius: 36px;
+    width: 48px;
+}
+.icon2 {
+    border-radius: 36px;
+    width: 48px;
+}
+
+.icon3 {
+    border-radius: 36px;
+    width: 48px;
+}
+.icon4 {
+    border-radius: 36px;
+    width: 48px;
+}
+.icon5 {
+    border-radius: 36px;
+    width: 48px;
+}
+
+.text-box {
+    border-radius: 40px;
+    margin-left: 32px;
+    padding: 0 4px 0 16px;
+    font-size: 20px;
+    width: 218px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
