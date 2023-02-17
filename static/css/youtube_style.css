@@ -52,10 +52,11 @@
 
 .text-box {
     border-radius: 40px;
-    margin-left: 32px;
-    padding: 0 4px 0 16px;
-    font-size: 20px;
-    width: 218px;
     font-family: Arial, Helvetica, sans-serif;
     display: block;
+}
+
+.channel1,.channel2,.channel3, .channel4, .channel5,
+.status1, .status2,.status3,.status4,.status5 {
+    display: inline-block;
 }
