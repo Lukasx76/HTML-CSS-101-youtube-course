@@ -1,17 +1,15 @@
 p {
-    margin: 15px 0 0 0;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
-.thumbnail, .thumbnail1,.thumbnail2,.thumbnail3,.thumbnail4, .thumbnail5 {
+
+.thumbnail {
     border-radius: 20px;
     width: 360px;
     height: 202px;
-}
-
-
-.advertasing {
-    width: 320px;
-    border-radius: 20px;
+    margin-bottom: 12px;
+    margin-top: 12px;
 }
 
 .text-box {
@@ -23,25 +21,38 @@ p {
 
 .container {
     display: inline-block;
-    width: 300px;
-    margin: 30px;
     vertical-align: top;
 }
 
-.ytb-channel-img,.ytb-channel-img1, .ytb-channel-img2, .ytb-channel-img3, .ytb-channel-img4, .ytb-channel-img5 {
+
+.ytb-info {
+    display: inline-block;
+    width: 300px;
+}
+
+.ytb-info p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.video-title {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.channel, .stats {
+    color: rgb(96, 96, 96);
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.ytb-channel-img {
+    width: 60px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.icon {
+    border-radius: 40px;
     width: 50px;
-    height: 100px;
-    display: inline-block;
-}
-
-.ytb-info,.ytb-info1, .ytb-info2, .ytb-info3, .ytb-info4, .ytb-info5 {
-    width: 311px;
-    height: 100px;
-    display: inline-block;
-}
-
-.icon, .icon1, .icon2, .icon3, .icon4, .icon5 {
-    border-radius: 36px;
-    height: 36px;
-    width: 36px;
+    
 }
