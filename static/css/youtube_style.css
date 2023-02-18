@@ -2,10 +2,12 @@ p {
     margin: 15px 0 0 0;
 }
 
-.thumbnail1,.thumbnail2,.thumbnail3,.thumbnail4,.thumbnail5 {
+.thumbnail, .thumbnail1,.thumbnail2,.thumbnail3,.thumbnail4, .thumbnail5 {
     border-radius: 20px;
-    width: 300px;
+    width: 360px;
+    height: 202px;
 }
+
 
 .advertasing {
     width: 320px;
@@ -18,31 +20,28 @@ p {
     display: block;
 }
 
-.container-ad {
-    display: inline-block;
-    width: 320px;
-    margin: 15px;
-    vertical-align: top;
-}
 
 .container {
     display: inline-block;
     width: 300px;
-    margin: 15px;
+    margin: 30px;
     vertical-align: top;
 }
 
-.ytb-channel-img1 {
+.ytb-channel-img,.ytb-channel-img1, .ytb-channel-img2, .ytb-channel-img3, .ytb-channel-img4, .ytb-channel-img5 {
     width: 50px;
+    height: 100px;
     display: inline-block;
 }
 
-.ytb-info1 {
-    width: 200px;
+.ytb-info,.ytb-info1, .ytb-info2, .ytb-info3, .ytb-info4, .ytb-info5 {
+    width: 311px;
+    height: 100px;
     display: inline-block;
 }
 
-.icon1 {
+.icon, .icon1, .icon2, .icon3, .icon4, .icon5 {
     border-radius: 36px;
-    width: 40px;
+    height: 36px;
+    width: 36px;
 }
